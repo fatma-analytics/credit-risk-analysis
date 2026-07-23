@@ -38,9 +38,8 @@ python generate_data.py     # crée loans.csv
 python analysis.py          # indicateurs + modèle de scoring
 ```
 
-Puis ouvrir `dashboard.html` dans un navigateur (aucun serveur requis).
 
-## Voir la démo en ligne (optionnel)
+
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/47448825-138a-4a00-9116-92a78ea30b6a" />
 
