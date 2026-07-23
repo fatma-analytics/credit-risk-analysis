@@ -42,10 +42,7 @@ Puis ouvrir `dashboard.html` dans un navigateur (aucun serveur requis).
 
 ## Voir la démo en ligne (optionnel)
 
-Pour rendre le dashboard cliquable en ligne via **GitHub Pages** :
-renommer `dashboard.html` en `index.html`, puis activer *Settings → Pages*
-sur la branche `main`. Le dashboard sera accessible à
-`https://<ton-pseudo>.github.io/<nom-du-repo>`.
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/47448825-138a-4a00-9116-92a78ea30b6a" />
 
 ## Méthode
 
