@@ -1,11 +1,12 @@
-# credit-risk-analysis
 # Analyse du risque de crédit — portefeuille de prêts
 
-Projet **data analyste** de bout en bout : de l'extraction **SQL** à l'analyse
+Projet de **data analyse** de bout en bout : de l'extraction **SQL** à l'analyse
 **Python** (avec un modèle de scoring) jusqu'à un **dashboard interactif**.
 Il mesure et visualise le risque de défaut d'un portefeuille de prêts.
 
 > ⚠️ **Données 100 % fictives**, générées pour la démonstration. Aucune donnée réelle.
+
+![Aperçu du dashboard](https://github.com/user-attachments/assets/47448825-138a-4a00-9116-92a78ea30b6a)
 
 ## En bref
 
@@ -38,10 +39,7 @@ python generate_data.py     # crée loans.csv
 python analysis.py          # indicateurs + modèle de scoring
 ```
 
-
-
-
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/47448825-138a-4a00-9116-92a78ea30b6a" />
+Puis ouvrir `dashboard.html` dans un navigateur.
 
 ## Méthode
 
@@ -62,4 +60,4 @@ indicateurs de crédit (PD / LGD / EAD, NPL) · data-visualisation.
 
 ---
 
-**Auteur** — [FATMA HAMMAMI]
+**Auteure :** Fatma Hammami
